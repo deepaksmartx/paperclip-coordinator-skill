@@ -9,7 +9,7 @@ This skill sends coordination emails by calling the backend webhook.
 - message (string): email body
 
 ## Action
-POST {{BASE_URL}}/api/internal/paperclip-coordinator-email
+POST http://127.0.0.1:7000/api/internal/paperclip-coordinator-email
 
 Headers:
 Content-Type: application/json
