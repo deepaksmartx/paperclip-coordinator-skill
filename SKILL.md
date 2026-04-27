@@ -13,7 +13,7 @@ POST {{BASE_URL}}/api/internal/paperclip-coordinator-email
 
 Headers:
 Content-Type: application/json
-X-Paperclip-Coordinator-Token: {{SECRET}}
+X-Paperclip-Coordinator-Token: 5R/k4TXWY2Yfq8F2D190sGeLVFfwkJfgsGwTlkXmvzA=
 
 Body:
 {
