@@ -17,6 +17,7 @@ X-Paperclip-Coordinator-Token: 5R/k4TXWY2Yfq8F2D190sGeLVFfwkJfgsGwTlkXmvzA=
 
 Body:
 {
+  "idempotency_key": "{{idempotency_key}}",
   "to": "{{to}}",
   "subject": "{{subject}}",
   "message": "{{message}}"
