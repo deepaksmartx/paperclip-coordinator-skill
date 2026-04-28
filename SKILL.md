@@ -1,7 +1,7 @@
 # Coordinator Webhook Skill
 
 ## Description
-This skill sends coordination emails by calling the backend webhook.
+This skill sends coordination emails by POSTing the backend webhook.
 
 ## Input
 - to (string): recipient email
