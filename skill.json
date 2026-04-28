@@ -1,14 +1,4 @@
 {
   "name": "coordinator-webhook",
-  "description": "Send coordination email via backend",
-  "variables": {
-    "BASE_URL": {
-      "type": "string",
-      "required": true
-    },
-    "SECRET": {
-      "type": "string",
-      "required": true
-    }
-  }
+  "description": "Send coordination email via backend"
 }
